@@ -1,11 +1,11 @@
 ========
 pyλ-2.7
 ========
-Pylambda2.7 is a docker image containing Python-lambda package 
+Pylambda2.7 is a docker image containing Python-lambda package along with aws CLI 
 which is a toolset for developing and deploying *serverless* Python code in AWS Lambda.
 Description
 ===========
-
+aws CLI: AWS Command Line Interface on Linux
 AWS Lambda is a service that allows you to write Python, Java, or Node.js code that gets executed in response to events like http requests or files uploaded to S3.
 
 Working with Lambda is relatively easy, but the process of bundling and deploying your code is not as simple as it could be.
