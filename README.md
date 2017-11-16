@@ -1,8 +1,8 @@
 ========
 pyλ-2.7
 ========
-Pylambda2.7 is a docker image containing Python-lambda package. 
-  a toolset for developing and deploying *serverless* Python code in AWS Lambda.
+Pylambda2.7 is a docker image containing Python-lambda package 
+which is a toolset for developing and deploying *serverless* Python code in AWS Lambda.
 Description
 ===========
 
